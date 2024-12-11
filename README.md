@@ -15,7 +15,7 @@ Building upon the experience with React / Next.JS and npm, this repository is de
 4. [License](#license)
 5. [Contact](#contact)
 
-![Screenshot](https://github.com/101045330/a3desn3035-main/blob/main/Screenshot1.png?raw=true) 
+![Screenshot]([?raw=true](https://github.com/101045330/a3desn3035-main/blob/main/screenshot1.png?raw=true)) 
 
 
 
