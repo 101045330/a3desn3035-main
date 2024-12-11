@@ -1,10 +1,10 @@
 # Assignment 3
 
 ## Description
-This repository contains the files and code for Assignment 3. 
+This repository contains the files and code for Assignment 3.  This project reused assets from the previous tasks and submissions.
 
 ### Objective
-Building upon our experience with React / Next.JS and npm, this repository is developed and deployed as a React-based website using GitHub Pages. This project reused assets from the previous tasks and submissions.
+Building upon the experience with React / Next.JS and npm, this repository is developed and deployed as a React-based website using GitHub Pages. 
 
 ## Table of Contents
 
