@@ -16,7 +16,7 @@ Building upon the experience with React / Next.JS and npm, this repository is de
 5. [Contact](#contact)
 
 ## Screenshot
-<img src="Screenshot1.png" alt="Screenshot" style="max-width: 100%; height: auto;">
+<img src="screenshot1.png" alt="Screenshot" style="max-width: 100%; height: auto;">
 
 ## Installation
 
