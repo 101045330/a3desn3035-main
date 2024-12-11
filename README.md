@@ -19,7 +19,7 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/101045330/Assignment3.git](https://github.com/101045330/a3desn3035-main.git)
+   git clone https://github.com/101045330/a3desn3035-main.git
    
 
 2. To Navigate to the project directory:
